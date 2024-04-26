@@ -1,6 +1,6 @@
 CHALLENGE CONVERSOR DE MOEDAS
 
-DESCRIÇÃO DO CHALLENGE
+DESCRIÇÃO DO CHALLENGE<br>
 API para fazer conversão de Moedas, podendo converter no mínimo 6 opções distintas em um menu. A taxa de conversão será feita em tempo real para uma experiência mais atualizada e eficaz.
 
 OBJETIVO
