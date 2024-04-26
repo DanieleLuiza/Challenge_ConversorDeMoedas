@@ -8,5 +8,5 @@ Classe Principal: Executa o sistema .
 
 Classe Service:
 
-    Método converterMoeda: responsável por fazer o consumo da API e retornar o valor da cotação da moeda.
-    Método converter: responsável por fazer a multiplicação do valor digitado e o valor da cotação da moeda.
+- Método converterMoeda: responsável por fazer o consumo da API e retornar o valor da cotação da moeda.
+- Método converter: responsável por fazer a multiplicação do valor digitado e o valor da cotação da moeda.
